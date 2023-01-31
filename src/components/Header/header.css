@@ -1,0 +1,14 @@
+.right{
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-align: center;
+    justify-content:space-around;
+    margin: left;
+    margin-right: 20px;
+}
+
+.left{
+    font-weight: 400;
+    font-size: 1.4rem;
+    text-align: center;
+}
