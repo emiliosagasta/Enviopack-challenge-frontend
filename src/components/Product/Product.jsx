@@ -1,6 +1,6 @@
 import {Grid} from '@mui/material'
-import MediaCard from './MediaCard/MediaCard';
-import productsJson from '../products.json'
+import MediaCard from '../MediaCard/MediaCard';
+import productsJson from '../../products.json'
 import "./product.css"
 import { useState } from 'react';
 

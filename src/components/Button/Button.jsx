@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import productsJson from '../products.json'
+import productsJson from '../../products.json'
 
 const Button = ({sku})=> {
     const [cartText, setCartText] = useState('agregar al carrito')

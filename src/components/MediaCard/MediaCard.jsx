@@ -3,7 +3,7 @@ import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import Button from './../Button';
+import Button from './../../components/Button/Button';
 import image from '../../image-product.jpg'
 import "./MediaCard.css"
 
